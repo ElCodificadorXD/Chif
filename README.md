@@ -1,6 +1,6 @@
 # Who i am?
 
-Boss: Im a teenager that love playing videogames, and this way, is how i started coding...Now i love coding; JavaScript; HTML; Batch.
+Boss: Im a teenager that love playing videogames, and this way, is how i started coding...Now i love coding; Python; HTML; Batch; Hacking.
 Im interested to a multiple things, i want to learn how to program well and be a master at that!
 
 # Project
